@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Z2233
+懒得写了，直接把原作的改了改2333，啊...别打我..别打脸啊...
+2233娘 Live2D 看板娘插件(Typecho)
 
-You can use the [editor on GitHub](https://github.com/xiaobaichong5/Temp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+原作：
+[Demo: https://www.fczbl.vip/946.html](https://www.fczbl.vip/946.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 使用方法
+1. Download ZIP, 解压
+3. 上传至usr/plugins`目录
+4. 登录后台启用即可
+5. 此插件是基于原作犬の窝进行修改，由QQ爹移植Typecho，Zero适配HandSome
 
-### Markdown
+## 使用须知
+插件需要jQuery和Font Awesome的支持
+HandSome无需启用Font Awesome
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 授权
+ GPL 2.0 协议
 
-```markdown
-Syntax highlighted code block
+另，2233版权归 bilibili 所有！
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaobaichong5/Temp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we鈥檒l help you sort it out.
+## 使用的开源项目
+ - [Live2D-Src](https://github.com/journey-ad/live2d_src)
